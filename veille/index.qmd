@@ -8,7 +8,7 @@ listing:
   sort: date desc
   sort-ui: false
   type: grid
-  image-placeholder: /img/img_defaut.png
+  image-placeholder: /img/defaut.png
 page-layout: full
 title: Lu, Vu, Entendu
 title-block-bannerrR: false

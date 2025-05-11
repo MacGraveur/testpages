@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - _img
 
 website:
   title: "Mac Graveur"
