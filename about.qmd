@@ -23,7 +23,7 @@ comments: false
 
 ::: {.column-page}
 
-## Bio
+**Bio**
 
 Julien Benedetti est archiviste en collectivité territoriale depuis plus de quinze ans.
 
