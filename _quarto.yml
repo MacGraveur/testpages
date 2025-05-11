@@ -1,12 +1,16 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Testpages"
+  title: "Testpages_1"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Accueil
+      - href: veille.qmd
+        icon: bi-binoculars
+        text: Veille
       - about.qmd
 
 format:
