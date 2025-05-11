@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Accueil
-      - href: veille.qmd
+      - href: veille/index.qmd
         icon: bi-binoculars
         text: Veille
       - about.qmd
