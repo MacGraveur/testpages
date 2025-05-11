@@ -3,16 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Testpages_1"
+  title: "Mac Graveur"
   navbar:
     left:
       - href: index.qmd
         text: Accueil
+        icon: bi-house-door-fill
       - href: veille/index.qmd
-        icon: bi-binoculars
+        icon: bi-bookmark
         text: Veille
-      - about.qmd
-
+      - href: about.qmd
+        icon: bi-person-bounding-box
+        text: Qui suis-je ?
+      - href: realisation.qmd
+        text: Réalisations
+        icon: bi-bricks
+      - href: publication.qmd
+        text: Publications
+        icon: bi-pen-fill
 format:
   html:
     theme:

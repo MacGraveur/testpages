@@ -15,7 +15,7 @@ categories:
 date : 02-01-2024
 title: Février 2024
 ---
-description: Deuxième volet de cette édition mensuelle. Bonne lecture.
+Deuxième volet de cette édition mensuelle. Bonne lecture.
 
 ## Lu
 
