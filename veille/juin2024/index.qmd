@@ -6,6 +6,7 @@ categories:
 - Sport 
 date : 06-01-2024
 title: Juin 2024
+image: Prairial.jpg
 ---
 
 Mois de juin un peu compliqué en termes de veille, et notamment avec une section vu... non vu. On se retrouve certainement en septembre pour livaison de la veille estivale.

@@ -8,6 +8,7 @@ categories:
 - Histoire
 date : 04-01-2025
 title: Avril 2025
+image: Germinal.jpg
 ---
 
 Un mois un peu bousculé, avec une veille en fait très concentré sur la première quinzaine. A la relecture, je me rends compte qu'on y trouve beaucoup d'oeuvres littéraires et artistiques.

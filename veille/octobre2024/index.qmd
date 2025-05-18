@@ -7,6 +7,7 @@ categories:
 - Archivistique
 date : 10-01-2024
 title: Octobre 2024
+image: Vendemiaire.jpg
 ---
 
 Un mois d'octobre assez dense, ce qui est très bien pour occuper vos soirées hivernales. 

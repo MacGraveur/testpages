@@ -11,6 +11,7 @@ categories:
 - IA 
 date : 11-01-2024
 title: Novembre 2024
+image: Brumaire.jpg
 ---
 
 Une livraison très archives et très Marseille. Et toujours du numérique bien entendu. 

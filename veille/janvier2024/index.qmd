@@ -9,6 +9,7 @@ categories:
 - IA
 date : 01-01-2024
 title: Janvier 2024
+image: Nivose.jpg
 ---
 Inauguration pour l'année 2024 d'une publication mensuelle de ce que j'ai pu croiser et qui a éveillé mon intérêt. Ceci à travers des livres, articles, podcasts, webinaires, expositions, conférences.
 

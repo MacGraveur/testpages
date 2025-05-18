@@ -6,9 +6,10 @@ categories:
 - Architecture 
 - Shoah 
 - Opéra 
-- Wikipedia
+- Wikipédia
 date : 01-01-2025
 title: Janvier 2025
+image: Nivose.jpg
 ---
 
 On attaque une nouvelle année avec toujours des archives, du numérique comme ingrédiants de base.

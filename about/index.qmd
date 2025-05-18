@@ -1,6 +1,6 @@
 ---
 title: Qui suis-je ?
-image: /img/julien.jpg
+image: julien.jpg
 about:
   template: trestles
   image-shape: round
@@ -28,9 +28,9 @@ comments: false
 Julien Benedetti est archiviste en collectivité territoriale depuis plus de quinze ans.
 
 Après plusieurs années à gérer des collectes d’archives contemporaines, il a ensuite
-investi le domaine de l’archivage électronique, notamment au sein du groupe AMAE.
+investi le domaine de l’archivage électronique, notamment au sein du groupe AMAE, jusqu'en 2025.
 
-La formation tient aussi une place importante tant pour AFF que pour l’université d’Aix-
+La formation tient aussi une place importante tant pour AFF que pour l’Université d’Aix-
 Marseille, dont il a été étudiant. Plus récemment, à travers la participation à des
 colloques ou par la rédaction d’articles, il étudie les articulations possibles entre
 archives, communs et communautés.

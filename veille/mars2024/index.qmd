@@ -13,6 +13,7 @@ categories:
 - Esclavage
 date : 03-01-2024
 title: Mars 2024
+image: ventose.jpg
 ---
 
 Une livraison de mars un peu plus épaisse et surtout avec un peu plus de commentaires de ma part. Cette publication va trouver son format au fil du temps.

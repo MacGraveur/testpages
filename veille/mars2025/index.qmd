@@ -9,6 +9,7 @@ categories:
 - Indexation
 date : 03-01-2025
 title: Mars 2025
+image: ventose.jpg
 ---
 
 Malgré [#AAFRennes2025](https://framapiaf.org/tags/aafrennes2025) qui m'a pas mal mobilisé, au moins mentalement, voici la veille de ce mois. Avec dans le "vu" deux compte-rendus de conférences. J'espère pouvoir réitérer ce format.

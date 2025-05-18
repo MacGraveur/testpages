@@ -11,6 +11,7 @@ categories:
 - OpenData 
 date : 09-01-2024
 title: Septembre 2024
+image: Fructidor.jpg
 ---
 
 Un mois de septembre très marqué par les productions autour des commémorations du 80e anniversaire de la Libération. 

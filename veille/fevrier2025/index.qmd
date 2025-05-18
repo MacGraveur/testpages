@@ -14,6 +14,7 @@ categories:
 - Infrastructure
 date : 02-01-2025
 title: Février 2025
+image: Pluviose.jpg
 ---
 
 Une fois fait le bilan je vois qu'il y a beaucoup d'IA dans ma veille, mais aussi hélas un gros sujet sur le nouveau mandat Trump et ses attaques contre les archives.
